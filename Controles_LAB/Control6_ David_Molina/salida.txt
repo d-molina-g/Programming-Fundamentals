@@ -1,0 +1,4 @@
+CADENA CONCATENADA  estoesunapruebasolamentechao
+COMPARADOR  a
+CAMBIADOR  B
+CADENA MODIFICADA  estoesunBpruebBsolBmentechBo
